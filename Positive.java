@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 class Positive
 {
-public static void main(System.in);
+public static void main(String args[]);
 {
 Scanner sc=new Scanner(System.in);
 int s=sc.nextInt();
