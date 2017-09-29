@@ -8,15 +8,15 @@ Scanner sc=new Scanner(System.in);
 int s=sc.nextInt();
 if(s<0)
 {
-System.out.println("Negative");
+System.out.print("Negative");
 }
 else if(s>0)
 {
-System.out.println("Positive");
+System.out.print("Positive");
 }
 else
 {
-System.out.println("Zero");
+System.out.print("Zero");
 }
 }
 }
